@@ -5,3 +5,5 @@ This is TEST03 Project
 
 owner: chatchai.j@t-netbsd.coe.psu.ac.th
 
+
+This is a 'new' branch of 'test03' project.
